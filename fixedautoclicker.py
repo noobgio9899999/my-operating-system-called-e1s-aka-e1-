@@ -1,0 +1,6 @@
+import pyautougui
+import time
+pyautougui.MoveTo(0,0)
+while True:
+ pyautougui.click(20000)
+ time.sleep(0.00000000000000000000000000000000000000000000000000000000000000000000000000000000001)

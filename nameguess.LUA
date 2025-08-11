@@ -1,0 +1,11 @@
+import sys
+name=script.parent("a,b,c,d,e,f,g...z")
+local function r(z)
+    print(name[name])
+local function get_id()
+    script.parent(name-script.parent(name*script.parent(name)))
+    for script.parent(name) in name print(name*script.parent(name.parent(name)))
+print.script.parent(name)
+print(name+r(name.parent(name in name.parent(name)))) 
+name=script.parent.print(name+name.script.parent(name*name.parent()))
+print(name.parent.r(get_id(script.parent(name))))
